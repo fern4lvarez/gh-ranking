@@ -3,7 +3,7 @@
 
 Languages ranking on GitHub
 
-**gh-ranking** is a simple tool to get the position of a programming language in popularity GitHub ranking.
+**gh-ranking** is a simple tool to get the position of a programming language in the GitHub popularity ranking.
 
 ## Install
 
