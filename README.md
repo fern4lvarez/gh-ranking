@@ -1,7 +1,7 @@
 # gh-ranking [![Build Status](https://travis-ci.org/fern4lvarez/gh-ranking.png)](https://travis-ci.org/fern4lvarez/gh-ranking) 
 [Documentation online](http://godoc.org/github.com/fern4lvarez/gh-ranking)
 
-Languag̈́es ranking on GitHub
+Languages ranking on GitHub
 
 **gh-ranking** is a simple tool to get the position of a programming language in popularity GitHub ranking.
 
