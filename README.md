@@ -28,7 +28,7 @@ As easy as doing this:
 
 ```
 $ gh-ranking go
-go is on position #24 on GitHub.
+go is on position #23 on GitHub.
 For more information, visit https://github.com/languages/go
 ```
 
@@ -62,7 +62,7 @@ func main() {
         fmt.Println("Error")
     }
     fmt.Println(pos)
-    // Output: 24
+    // Output: 23
 }
 ```
 

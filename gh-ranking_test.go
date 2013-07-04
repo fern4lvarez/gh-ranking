@@ -80,5 +80,5 @@ func ExamplePosition() {
 		fmt.Println("Error")
 	}
 	fmt.Println(pos)
-	// Output: 24
+	// Output: 23
 }
